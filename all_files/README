@@ -1,0 +1,4 @@
+javac -sourcepath ~/java/workspace/zql/src/ -d ~/java/workspace/zql/bin/ ~/java/workspace/zql/src/**/**/**/*.java
+change to bin folder and run
+java -cp bin: org.gibello.zql.ZqlParser
+

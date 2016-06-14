@@ -1,0 +1,15 @@
+<begin_table>
+<employee>
+<age>
+<salary>
+<ssn>
+<end_table>
+
+<begin_table>
+<marks>
+<phy>
+<che>
+<math>
+<end_table>
+
+	
